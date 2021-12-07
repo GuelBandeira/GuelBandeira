@@ -3,8 +3,7 @@
 # Olá, meu nome é Guel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="45" height="40">
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="40" height="30"> Sobre mim:
 * ❤ Desenvolvedor <strong>Full Stack</strong>
-* 🎨 Criativo
-* 📌 Determinado
+* 🎨 Construindo meu porfolio
 * 💻 Atualmente apaixonado por <strong> ⚛ React.js ⚛ </strong>
 
 ## Skills:
@@ -19,7 +18,6 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="vertical-align:top; margin:4px"> 
 </p>
-
 
 ## Contato:
 
