@@ -1,4 +1,4 @@
-<img src="https://imgur.com/xyZM5xb.gif" alt="Git" style="vertical-align:top; margin:4px"> 
+<img src="https://imgur.com/xyZM5xb.gif" alt="Git" style="vertical-align:top; margin:4px; text-align: center;"> 
 
 # Olá, meu nome é Guel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="45" height="40">
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="40" height="30"> Sobre mim:
