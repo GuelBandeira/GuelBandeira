@@ -3,7 +3,7 @@
 # Olá, meu nome é Guel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="45" height="40">
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="40" height="30"> Sobre mim:
 * ❤ Desenvolvedor <strong>Full Stack</strong>
-* 🎨 Construindo meu porfolio
+* 🎨 Dê uma passada no meu porfolio :D
 * 💻 Atualmente apaixonado por <strong> ⚛ React.js ⚛ </strong>
 
 ## Skills:
