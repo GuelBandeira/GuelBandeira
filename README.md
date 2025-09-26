@@ -1,10 +1,9 @@
 <img src="https://imgur.com/xyZM5xb.gif" alt="Git" style="vertical-align:top; margin:4px; text-align: center;"> 
 
-# Olá, meu nome é Guel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="45" height="40">
+# Hi, my name is Guel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="45" height="40">
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="40" height="30"> Sobre mim:
-* ❤ Desenvolvedor <strong>Full Stack</strong>
-* 🎨 Dê uma passada no meu porfolio :D
-* 💻 Atualmente apaixonado por <strong> ⚛ React.js ⚛ </strong>
+* ❤ <strong>Full Stack</strong> Developer
+* 🎨 Take a look at my porfolio
 
 ## Skills:
 <p align="left">
@@ -27,7 +26,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="vertical-align:top; margin:4px"> 
 </p>
 
-## Contato:
+## Contact:
 
 <a href="https://api.whatsapp.com/send?phone=5524999987722&text=Oi%2C%20tudo%20bem%3F"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" style="vertical-align:top; margin:4px"></a>
 <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=bandeiraguel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="vertical-align:top; margin:4px"></a>
