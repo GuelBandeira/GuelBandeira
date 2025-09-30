@@ -1,5 +1,5 @@
 <!--<img src="https://imgur.com/xyZM5xb.gif" alt="Git" style="vertical-align:top; margin:4px; text-align: center;"> -->
-<img src="https://imgur.com/GSaIuvz.gif" alt="Git" style="vertical-align:top; margin:4px; text-align: center;">
+<img src="https://i.imgur.com/GSaIuvz.gif" alt="Git" style="vertical-align:top; margin:4px; text-align: center;">
 
 
 # Hi, my name is Guel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="45" height="40">
